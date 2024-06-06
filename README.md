@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umesh Kumar</h1>
 <h3 align="center">A passionate Java Full Stack developer from India.</h3>
-<img align="right" width="400" src="https://media.geeksforgeeks.org/wp-content/uploads/20230926163338/Java-Full-Stack.png">
+<img align="right" width="400" src="https://assets-global.website-files.com/6344c9cef89d6f2270a38908/63862296680a877e33cb39f9_c4.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umesh-kumar-18&label=Profile%20views&color=0e75b6&style=flat" alt="umesh-kumar-18" /> </p>
 
